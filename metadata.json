@@ -1,0 +1,6 @@
+{
+  "name": "BEST FORME | Salle de Sport & Fitness à Casablanca",
+  "description": "Découvrez BEST FORME, votre salle de sport à Casablanca. Musculation, cardio, fitness, coaching personnel et abonnements adaptés à vos objectifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
